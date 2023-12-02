@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  wordpress:
+    image: wordpress:latest
+    ports:
+      - "8081:80"
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: db_user  # Corrected user name
+      WORDPRESS_DB_PASSWORD: pass_mysql
+      WORDPRESS_DB_NAME: mysql_db
+    volumes:
+      - ./wordpress-data:/var/www/html
+    command: ["apache2-foreground", "-D", "FOREGROUND", "-e", "info"]
+
+  db:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: pass_mysql_root
+      MYSQL_DATABASE: mysql_db
+      MYSQL_USER: db_user
+      MYSQL_PASSWORD: pass_mysql
+    volumes:
+      - ./db-data:/var/lib/mysql
+
