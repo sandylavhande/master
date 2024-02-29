@@ -106,13 +106,13 @@ AWS Cloud Engineer | Linux  | AWS |Grafana |kibana | Jenkins | Git | Terraform |
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://github.com/chxtan">
+<a href="https://github.com/sandylavhande">
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
 </div>
 
 <div align="center" gap="20px">
-<a href="https://twitter.com/chxtan_">
+<a href="https://twitter.com/SandeshLavhande">
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
 </a>
 </div>
