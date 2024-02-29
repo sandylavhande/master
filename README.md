@@ -90,7 +90,7 @@ AWS Cloud Engineer | Linux  | AWS |Grafana |kibana | Jenkins | Git | Terraform |
 <p align="center">
    <br>
    <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan"></p>
+<img align="center" src= src="https://github-readme-streak-stats.herokuapp.com?user=sandylavhande"&&theme=radical&line_height=27&v=5" alt="chetan"></p>
    <br>
 <h1 align="center">🧋🧋🧋</h1>
 <hr>
