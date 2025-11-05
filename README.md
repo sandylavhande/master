@@ -9,15 +9,14 @@ Welcome To My Place
 
 <hr>
 <h2 align="center">👋 Hi, I’m Sandesh </h2>
-AWS Cloud Engineer | Linux  | AWS |Grafana |kibana | Jenkins | Git | Terraform | Ansible | Docker | Kubernetes | Technical Blogger | Ex-Axcess.io | Passionate about writing Technical Blogs on various DevOps concepts.
+AWS Cloud Engineer | Linux  | AWS |Grafana |kibana | Jenkins | Git | Terraform | Ansible | Docker | Kubernetes  | Passionate about writing Technical Blogs on various DevOps concepts.
 
 <br>
 <br>
 
-- 🔭 I’m currently **learning Terraform, Kubernetes**
-- 📝 I regularly post articles on **Various DevOps Concepts**
+- 🔭 I’m currently **Learning GCP **
 
-- 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS, Azure, Terraform**
+- 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS, GCP, Terraform**
 
 - ⚡ Fact **"Remember,,, Why you started."**
 
